@@ -1,0 +1,6 @@
+gradio
+demucs
+basic-pitch
+faster-whisper
+music21
+madmom
